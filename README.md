@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Enthusiast | Data Science Learner | CSE Student</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Python-3.13.5-blue?logo=python" />
   <img src="https://img.shields.io/badge/AI/ML-Student-success" />
   <img src="https://img.shields.io/badge/Tools-Jupyter%20|%20Colab-lightgrey" />
 </p>
@@ -37,6 +37,4 @@ Libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn
 Tools: Jupyter Notebook, Google Colab, GitHub  
 ---
 ### 🧠 Other Technologies I’m Familiar With
-
-```html
 HTML, CSS, JavaScript, Java, MongoDB
