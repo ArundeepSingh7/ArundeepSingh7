@@ -36,5 +36,5 @@ Languages: Python, SQL (basic)
 Libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn  
 Tools: Jupyter Notebook, Google Colab, GitHub  
 ---
-### 🧠 Other Technologies I’m Familiar With
+🧠 Other Technologies I’m Familiar With:
 HTML, CSS, JavaScript, Java, MongoDB
