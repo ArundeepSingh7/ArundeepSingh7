@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arundeep Singh</h1>
+<h1 align="center">Hi 🤖, I'm Arundeep Singh</h1>
 <h3 align="center">AI/ML Enthusiast | Data Science Learner | CSE Student</h3>
 
 <p align="center">
