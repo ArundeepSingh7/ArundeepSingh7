@@ -56,7 +56,7 @@
 ### 🧰 Tools & Technologies
 
 ```python
-Languages: Python, SQL (basic)  
+Languages: Python, SQL (Advanced)
 Libraries: NumPy, pandas, matplotlib, seaborn, scikit-learn  
 Tools: Jupyter Notebook, Google Colab, GitHub  
 ---
