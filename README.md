@@ -49,8 +49,8 @@
 - ✅ Python basics (syntax, functions, data structures)
 - ✅ `pandas`, `NumPy`, `matplotlib`, `seaborn`
 - ✅ `scikit-learn` (classification, regression, model evaluation)
-- 🔜 Coming Up: `TensorFlow`, `PyTorch`, `Transformers`
-
+- 🔜 Coming Up: `ML Projects`, `FastAPI`, `PyTorch`, `Transformers`
+  
 ---
 
 ### 🧰 Tools & Technologies
