@@ -131,16 +131,6 @@ Personalized recommendation engine combining content-based and collaborative fil
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c9622a,100:1a1612&height=3" />
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArundeepSingh7&show_icons=true&hide_border=true&title_color=c9622a&icon_color=c9622a&text_color=1a1612&bg_color=fdfbf7" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ArundeepSingh7&hide_border=true&background=fdfbf7&stroke=c9622a&ring=c9622a&fire=c9622a&currStreakLabel=1a1612&sideLabels=1a1612&dates=1a1612&currStreakNum=1a1612&sideNums=1a1612" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArundeepSingh7&layout=compact&hide_border=true&title_color=c9622a&text_color=1a1612&bg_color=fdfbf7" />
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c9622a,100:1a1612&height=3" />
 
