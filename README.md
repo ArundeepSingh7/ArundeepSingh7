@@ -1,165 +1,86 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9622a,100:1a1612&height=180&section=header&text=Arundeep%20Singh&fontSize=48&fontColor=fdfbf7&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=58&descSize=18&descColor=fdfbf7" />
+# Arundeep Singh
 
-<a href="https://linkedin.com/in/arundeepsingh7">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:arundeep.tech@gmail.com">
-  <img src="https://img.shields.io/badge/Email-C9622A?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/ArundeepSingh7">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**AI & Data Science Engineer**
 
-<br /><br />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=C9622A&center=true&vCenter=true&width=580&lines=Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Generative+AI;NLP+%C2%B7+PyTorch+%C2%B7+FastAPI+%C2%B7+Streamlit;Currently+building+AI+products+%40+Inphora" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C9622A&center=true&vCenter=true&width=640&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;Building+deployable%2C+research-driven+AI+systems;Currently+%40+Inphora+Pvt.+Ltd." alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1612?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arundeepsingh7)
+[![Email](https://img.shields.io/badge/Email-1a1612?style=flat-square&logo=gmail&logoColor=white)](mailto:arundeep.tech@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1612?style=flat-square&logo=github&logoColor=white)](https://github.com/ArundeepSingh7)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c9622a,100:1a1612&height=3" />
+<br />
 
-## About Me
+## About
 
-Aspiring **AI & Data Science Engineer** with a strong foundation in Machine Learning, Deep Learning, and Generative AI — built through full-stack projects spanning NLP, computer vision, and recommendation systems. I care about turning research-driven ideas into systems people can actually use.
+Aspiring AI & Data Science Engineer with a strong foundation in Machine Learning, Deep Learning, and Generative AI, demonstrated through full-stack projects spanning NLP, computer vision, and recommendation systems. Focused on turning research-driven ideas into deployable, real-world products.
 
-- 🎓 B.E. in Artificial Intelligence and Data Science @ **Thapar Institute of Engineering and Technology**
-- 💼 AI & Data Science Specialist Intern @ **Inphora Pvt. Ltd.** — building AI products, mentoring students, and delivering AI/GenAI seminars at 50–60+ colleges
-- 🧠 Focused on: **NLP · Deep Learning (PyTorch) · Generative AI · Full-stack ML products**
-- 🛠️ Ship things end-to-end — from model training to a FastAPI backend to a deployed Streamlit/production UI
-- 📫 Reach me at **arundeep.tech@gmail.com**
+**Currently:** AI & Data Science Specialist Intern at **Inphora Pvt. Ltd.** — building AI products across GenAI, agricultural and medical disease detection, model development, and deployment, while mentoring students and delivering AI/GenAI seminars at 50+ colleges.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c9622a,100:1a1612&height=3" />
+**Studying:** B.E. in Artificial Intelligence and Data Science at Thapar Institute of Engineering and Technology.
 
-## Featured Projects
+<br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Projects
 
-### 🧾 AI-Powered ATS Resume Checker & Recommender
-Full-stack resume analyzer with a 9-category scoring engine for JD-match relevance, keyword optimization, formatting, and grammar. Uses Sentence Transformers for semantic job-title detection when none is provided.
-
+**AI-Powered ATS Resume Checker & Recommender**
+Full-stack resume analyzer (FastAPI + Streamlit) with a 9-category scoring engine covering JD-match relevance, keyword optimization, formatting, and grammar. Uses Sentence Transformers for semantic job-title detection when one isn't provided.
 `Python` `NLP` `Sentence Transformers` `FastAPI` `Streamlit`
+[View repository →](https://github.com/ArundeepSingh7)
 
-<a href="https://github.com/ArundeepSingh7">
-<img src="https://img.shields.io/badge/View%20Repo-1a1612?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 AI Quiz Generator
-Generative AI quiz builder that auto-creates questions and answers from any user-uploaded PDF/DOC file, with a fault-tolerant JSON parser that recovers valid questions from partially malformed AI output instead of discarding the whole batch.
-
+**AI Quiz Generator**
+Generative AI tool that creates quiz questions and answers directly from an uploaded PDF or DOC file. Includes a fault-tolerant JSON parser that recovers valid questions from partially malformed AI output instead of discarding the batch.
 `Python` `Generative AI` `NLP` `FastAPI`
+[View repository →](https://github.com/ArundeepSingh7)
 
-<a href="https://github.com/ArundeepSingh7">
-<img src="https://img.shields.io/badge/View%20Repo-1a1612?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 Medical Disease Detection
-Deep learning system for AI-assisted preliminary medical diagnosis via image classification — covering upload/preprocessing pipelines, model training, and feature extraction for disease prediction.
-
+**Medical Disease Detection**
+Deep learning system for AI-assisted preliminary medical diagnosis via image classification, covering the full pipeline from image upload and preprocessing to model training and feature extraction.
 `Python` `Deep Learning` `PyTorch`
+[View repository →](https://github.com/ArundeepSingh7)
 
-<a href="https://github.com/ArundeepSingh7">
-<img src="https://img.shields.io/badge/View%20Repo-1a1612?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Recommendation System
-Personalized recommendation engine combining content-based and collaborative filtering, with TF-IDF + cosine similarity and a hybrid approach to handle cold-start users and items.
-
+**Recommendation System**
+Personalized recommendation engine combining content-based and collaborative filtering, using TF-IDF and cosine similarity, with a hybrid approach to handle cold-start users and items.
 `Python` `Machine Learning` `NLP`
+[View repository →](https://github.com/ArundeepSingh7)
 
-<a href="https://github.com/ArundeepSingh7">
-<img src="https://img.shields.io/badge/View%20Repo-1a1612?style=flat-square&logo=github&logoColor=white" />
-</a>
+<sub>Repository links above currently point to my GitHub profile — update each to the exact repo URL once confirmed.</sub>
 
-</td>
-</tr>
-</table>
-
-> Repo links above point to my GitHub — swap in the exact repo URLs once you confirm which ones are public.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c9622a,100:1a1612&height=3" />
+<br />
 
 ## Tech Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+**Languages** — Python · SQL · JavaScript · HTML · CSS
 
-<p align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/Optuna-4059AD?style=for-the-badge&logoColor=white" />
-</p>
+**ML / Deep Learning** — PyTorch · scikit-learn · NumPy · pandas · OpenCV · spaCy · Optuna
 
-<p align="center">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+**Backend / Deployment** — FastAPI · Streamlit · MongoDB · PostgreSQL · Redis
 
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</p>
+**Tools** — Git · GitHub · Jupyter Notebook · Google Colab · Kaggle
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c9622a,100:1a1612&height=3" />
+<br />
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArundeepSingh7&show_icons=true&hide_border=true&title_color=c9622a&icon_color=c9622a&text_color=1a1612&bg_color=fdfbf7" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ArundeepSingh7&hide_border=true&background=fdfbf7&stroke=c9622a&ring=c9622a&fire=c9622a&currStreakLabel=1a1612&sideLabels=1a1612&dates=1a1612&currStreakNum=1a1612&sideNums=1a1612" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArundeepSingh7&layout=compact&hide_border=true&title_color=c9622a&text_color=1a1612&bg_color=fdfbf7" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArundeepSingh7&layout=compact&hide_border=true&title_color=c9622a&text_color=1a1612&bg_color=fdfbf7" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c9622a,100:1a1612&height=3" />
-
-## Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ArundeepSingh7/ArundeepSingh7/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</div>
-
-> ⚙️ This needs a one-time GitHub Actions setup — see `snake.yml` and the setup notes below.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c9622a,100:1a1612&height=3" />
+<br />
 
 ## Education
 
-- **Thapar Institute of Engineering and Technology** — B.E. in Artificial Intelligence and Data Science *(2025 – Present)*
-- **Chandigarh College of Engineering and Technology** — Diploma in Computer Science Engineering, 85% *(2023 – 2026)*
-- **Government Model Senior Secondary School, Sector 22-A Chandigarh** — Senior Secondary (10+2), 92.8% *(2022 – 2024)*
+| Institution | Program | Duration |
+|---|---|---|
+| Thapar Institute of Engineering and Technology | B.E., Artificial Intelligence and Data Science | 2025 – Present |
+| Chandigarh College of Engineering and Technology | Diploma, Computer Science Engineering (85%) | 2023 – 2026 |
+| Govt. Model Senior Secondary School, Sector 22-A, Chandigarh | Senior Secondary (10+2), 92.8% | 2022 – 2024 |
+
+<br />
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1612,100:c9622a&height=120&section=footer" />
+<sub>arundeep.tech@gmail.com · Chandigarh, India</sub>
 </div>
